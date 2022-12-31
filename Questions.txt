@@ -1,0 +1,6 @@
+1. Show the number of Confirmed ,Deaths and Recovered cases in each region
+2. Remove all the records where confirmed cases is less than 10
+3. In which region maximum number of confirmed cases were recorded
+4. In which region, minimum number of deaths cases were recorded
+5. How many confirmed, deaths and recovered cases were recorded from India till 29 april 2020
+6. Sort the entire data wrt No. of confirmed cases in the ascending order
